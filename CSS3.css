@@ -1,5 +1,5 @@
-//Best Practice para hacer que  el elemento cuente con header;
-//pero no sea visible para el usuario de escritorio.
+/* Best Practice para hacer que  el elemento cuente con header;
+pero no sea visible para el usuario de escritorio. */
 a.offscreen
 {
 position: absolute;
